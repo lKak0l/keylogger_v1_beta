@@ -1,6 +1,6 @@
 <h1>keylogger v1 beta</h1> 
 <br>
-![e143-keylogger](https://github.com/lKak0l/keylogger_v1_beta/assets/155819542/7728fd54-1132-44c3-baf8-a34cca091db2)
+![av](https://github.com/lKak0l/keylogger_v1_beta/assets/155819542/64811d45-ba82-4f9a-98fa-adbb077401c6)
 <br>
 <h2>Es un proyecto de monitorización de equipos basados en Windows.</h2>
 
